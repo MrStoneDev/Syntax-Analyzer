@@ -1,0 +1,17 @@
+{
+  "name": "lexical-analyser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyzer.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon analyzer.js"
+  },
+  "author": "Mario Alvarado",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "semistandard": "^16.0.1"
+  }
+}

@@ -1,0 +1,19 @@
+STRING: 'siu'
+COMMENT:  /* unipoli */
+OPEN BRACKETS:  {
+OPEN PARENTESIS:  (
+CLOSE PARENTESIS: )
+SEMI-COLON: ;
+AND:  &&
+OR:  ||
+MORE OR EQUAL:  >=
+STRING: 'siu'
+COMMENT:  /* unipoli */
+OPEN BRACKETS:  {
+OPEN PARENTESIS:  (
+CLOSE PARENTESIS: )
+SEMI-COLON: ;
+AND:  &&
+OR:  ||
+MORE OR EQUAL:  >=
+IDENTIFIER:  $pqrst
